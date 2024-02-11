@@ -19,7 +19,6 @@ def _log_fill_progress(name: str, placed: int, total_items: int) -> None:
     logging.info(f"Current fill step ({name}) at {placed}/{total_items} items placed.")
 
 
-# this is not docs!
 def sweep_from_pool(base_state: CollectionState, itempool: typing.Sequence[Item] = tuple()) -> CollectionState:
     new_state = base_state.copy()
     for item in itempool:
