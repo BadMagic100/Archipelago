@@ -4,6 +4,8 @@ Archipelago depends on worlds to provide game-specific details like items, locat
 Those are located in the `worlds/` folder (source) or `<install dir>/lib/worlds/` (when installed).
 See [world api.md](world%20api.md) for details.
 
+foo
+
 apworld provides a way to package and ship a world that is not part of the main distribution by placing a `*.apworld`
 file into the worlds folder.
 

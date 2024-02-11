@@ -3,6 +3,8 @@ import typing
 vanilla_costs: typing.List[int] = [1, 1, 1, 2, 2, 2, 3, 2, 3, 1, 3, 1, 3, 1, 2, 2, 1, 2, 3, 2,
                                    4, 2, 2, 2, 3, 1, 4, 2, 4, 1, 2, 3, 2, 4, 3, 5, 1, 3, 2, 2]
 
+# asdf
+
 names: typing.List[str] = [
     "Gathering Swarm",
     "Wayward Compass",
