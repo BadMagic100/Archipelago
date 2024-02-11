@@ -17,6 +17,7 @@ settings.no_gui = True
 configpath = os.path.abspath("config.yaml")
 if not os.path.exists(configpath):  # fall back to config.yaml in home
     configpath = os.path.abspath(Utils.user_path('config.yaml'))
+    # foo
 
 
 def get_app():

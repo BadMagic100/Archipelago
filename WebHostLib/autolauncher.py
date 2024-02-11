@@ -16,6 +16,7 @@ from .locker import Locker, AlreadyRunningException
 
 def launch_room(room: Room, config: dict):
     # requires db_session!
+    # foo
     if room.last_activity >= datetime.utcnow() - timedelta(seconds=room.timeout):
         multiworld = multiworlds.get(room.id, None)
         if not multiworld:
