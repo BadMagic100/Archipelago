@@ -17,6 +17,7 @@ class TestBase(unittest.TestCase):
     multiworld: MultiWorld
     _state_cache = {}
 
+    #foo
     def get_state(self, items):
         if (self.multiworld, tuple(items)) in self._state_cache:
             return self._state_cache[self.multiworld, tuple(items)]

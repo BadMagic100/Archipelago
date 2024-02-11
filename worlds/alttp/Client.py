@@ -7,6 +7,8 @@ import time
 
 import Utils
 
+# foo
+
 from NetUtils import ClientStatus, color
 from worlds.AutoSNIClient import SNIClient
 
