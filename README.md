@@ -3,6 +3,7 @@
 Archipelago provides a generic framework for developing multiworld capability for game randomizers. In all cases, presently, Archipelago is also the randomizer itself.
 
 Currently, the following games are supported:
+* test
 * The Legend of Zelda: A Link to the Past
 * Factorio
 * Minecraft

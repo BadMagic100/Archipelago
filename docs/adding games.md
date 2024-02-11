@@ -6,7 +6,7 @@ There are two key steps to incorporating a game into Archipelago:
 - Game Modification
 - Archipelago Server Integration
 
-Refer to the following documents as well:
+Refer to the following documents as well: lmao
 
 - [network protocol.md](/docs/network%20protocol.md) for network communication between client and server.
 - [world api.md](/docs/world%20api.md) for documentation on server side code and creating a world package.

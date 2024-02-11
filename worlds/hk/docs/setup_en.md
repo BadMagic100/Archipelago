@@ -1,5 +1,7 @@
 # Hollow Knight for Archipelago Setup Guide
 
+asdf
+
 ## Required Software
 * Download and unzip the Lumafly Mod Manager from the [Lumafly website](https://themulhima.github.io/Lumafly/).
 * A legal copy of Hollow Knight.

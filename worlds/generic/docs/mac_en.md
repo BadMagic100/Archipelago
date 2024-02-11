@@ -1,7 +1,7 @@
 # Guide to Run Archipelago from Source Code on macOS
 Archipelago does not have a compiled release on macOS. However, it is possible to run from source code on macOS. This guide expects you to have some experience with running software from the terminal.
 ## Prerequisite Software
-Here is a list of software to install and source code to download.
+Here is a list of software to install and source code to download. asdf
 1. Python 3.9 "universal2" or newer from the [macOS Python downloads page](https://www.python.org/downloads/macos/).
    **Python 3.11 is not supported yet.**
 2. Xcode from the [macOS App Store](https://apps.apple.com/us/app/xcode/id497799835).
