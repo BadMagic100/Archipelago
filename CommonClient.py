@@ -17,6 +17,7 @@ import websockets
 import Utils
 
 if __name__ == "__main__":
+    # commonclient is core
     Utils.init_logging("TextClient", exception_logger="Client")
 
 from MultiServer import CommandProcessor
