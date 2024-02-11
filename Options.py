@@ -20,7 +20,7 @@ if typing.TYPE_CHECKING:
     from worlds.AutoWorld import World
     import pathlib
 
-
+#foo
 class AssembleOptions(abc.ABCMeta):
     def __new__(mcs, name, bases, attrs):
         options = attrs["options"] = {}

@@ -12,7 +12,7 @@ from WebHostLib.upload import allowed_options, allowed_options_extensions, banne
 from Generate import roll_settings, PlandoOptions
 from Utils import parse_yamls
 
-
+#foo
 @app.route('/check', methods=['GET', 'POST'])
 def check():
     if request.method == 'POST':
