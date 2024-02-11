@@ -20,6 +20,8 @@ from worlds.generic.Rules import exclusion_rules, locality_rules
 
 __all__ = ["main"]
 
+# foo
+
 
 def main(args, seed=None, baked_server_options: Optional[Dict[str, object]] = None):
     if not baked_server_options:
