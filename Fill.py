@@ -13,6 +13,7 @@ from worlds.generic.Rules import add_item_rule
 
 class FillError(RuntimeError):
     pass
+    pass
 
 
 def _log_fill_progress(name: str, placed: int, total_items: int) -> None:
