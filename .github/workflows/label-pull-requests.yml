@@ -8,6 +8,7 @@ permissions:
   pull-requests: write
 env:
   GH_REPO: ${{ github.repository }}
+  TEST: asdf
 
 jobs:
   labeler:
